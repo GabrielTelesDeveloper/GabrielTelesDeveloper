@@ -12,4 +12,4 @@
 </div-->
 
 ## Ferramentas e tecnologias
-[![My Skills](https://skillicons.dev/icons?i=docker,js,html,css,laravel,postgres,mysql,git,php,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,js,html,css,,git,laravel,postgres,mysql,php,vscode)](https://skillicons.dev)
